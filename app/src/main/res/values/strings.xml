@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Z Call Logs</string>
+    <string-array name="spinner_options">
+        <item>Today</item>
+        <item>Last 7 Days</item>
+        <item>Last 30 Days</item>
+        <item>All Time</item>
+    </string-array>
+
+    <string-array name="spinner_values">
+        <item>11</item>
+        <item>7</item>
+        <item>30</item>
+        <item>100</item>
+    </string-array>
+
+    <string name="title_vodafone">Vodafone</string>
+    <string name="title_orange">Orange</string>
+    <string name="title_etisalat">Etisalat</string>
+    <string name="title_other">Other</string>
+    <string name="title_mins_stats">Outgoing Calls Statistics</string>
+    <string name="title_total_mins">Total Minutes\n</string>
+    <string name="title_click_color_hint">Click on any color to see each operator\'s minutes</string>
+    <string name="title_empty_data">You don\'t have outgoing calls for this time period!</string>
+    <string name="label_show_statistics">Show Statistics for:</string>
+</resources>
