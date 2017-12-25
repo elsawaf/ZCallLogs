@@ -8,3 +8,6 @@ First: I used Content Provider query parameters to get only needed data instead 
 Second: I used Loader and cached the data so if user choice the same period time again, the app doesn't load it again.
 
 ![insta-small](https://user-images.githubusercontent.com/3951780/34332390-bab60cc2-e938-11e7-8225-b19ac9449c89.gif)
+
+Incoming days I will add some enhancements to code, and if you want to adopt this app for your country feel free using the source code just edit the mobile operators' codes.
+
